@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @diogograebin
+- 👀 I’m interested in web development, particularly fullstack projects, and enhancing my skills in JavaScript, HTML, CSS, and related frameworks.
+- 🌱 I’m currently learning about web development techniques. 
+- 💞️ I’m looking to collaborate on open-source projects or any initiatives that involve web development and education.
+- 📫 How to reach me: You can reach me via email at diogograebin@gmail.com or connect with me on LinkedIn.
+- ⚡ Fun fact: I enjoy playing futsal in my free time and am an active participant in local tournaments.
