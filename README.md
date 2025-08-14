@@ -94,7 +94,19 @@ Me chamo Diogo Grings, tenho 20 anos e sou natural do Rio Grande do Sul. Trabalh
 
 ### 📊 Estatísticas
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=diogograebin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogograebin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
-|---|---|
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=diogograebin&theme=vue-dark&hide_border=true) | |
+<div align="center">
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=diogograebin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogograebin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+
+  <br/>
+
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=diogograebin&theme=vue-dark&hide_border=true" />
+
+</div>
+
+[![Snake animation](https://github.com/diogograebin/github-readme-snake.svg?theme=dark&snake=79FFE1&background=0D1117&ring=79FFE1)](https://github.com/diogograebin/github-readme-snake)
+
+
+
 
