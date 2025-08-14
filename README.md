@@ -94,16 +94,11 @@ Me chamo Diogo Grings, tenho 20 anos e sou natural do Rio Grande do Sul. Trabalh
 
 ### 📊 Estatísticas
 
-<div align="center">
-
+<p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=diogograebin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogograebin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-
-  <br/>
-
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=diogograebin&theme=vue-dark&hide_border=true" />
-
-</div>
+ 
+</p>
 
 <div align="center">
   <img src = "https://raw.githubusercontent.com/diogograebin/diogograebin/output/snake.svg" alt="Snake Animation" />
