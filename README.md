@@ -106,7 +106,7 @@ Me chamo Diogo Grings, tenho 20 anos e sou natural do Rio Grande do Sul. Trabalh
 </div>
 
 <div align="center">
-  ![snake gif](https://github.com/seu-usuario/repositorio/output/github-contribution-grid-snake.gif)
+  <img src = "https://raw.githubusercontent.com/diogograebin/diogograebin/output/snake.svg" alt="Snake Animation" />
 </div>
 
 
