@@ -105,7 +105,8 @@ Me chamo Diogo Grings, tenho 20 anos e sou natural do Rio Grande do Sul. Trabalh
 
 </div>
 
-[![Snake animation](https://github.com/diogograebin/github-readme-snake.svg?theme=dark&snake=79FFE1&background=0D1117&ring=79FFE1)](https://github.com/diogograebin/github-readme-snake)
+[![Snake animation](https://github.com/Platane/snk/raw/master/snake.svg)](https://github.com/Platane/snk)
+
 
 
 
