@@ -4,7 +4,9 @@
 
 Me chamo Diogo Grings, tenho 20 anos e sou natural do Rio Grande do Sul. Trabalho atualmente como Assistente de Desenvolvimento de Software, onde atuo com as seguintes tecnologias: ASP.NET Core MVC, C#, HTML, CSS, SQL Server e JavaScript. Sou estudante de Análise e Desenvolvimento de Sistemas na UCS.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diogo-grings)
+<a href="https://www.linkedin.com/in/diogo-grings" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
 ### 🤖 Linguagens e Tecnologias
 
